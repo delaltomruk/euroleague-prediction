@@ -1,5 +1,7 @@
 # Euroleague Prediction 🏀
 
+TLDR; // app
+
 This repository includes an end-to-end analysis including machine learning algorithms to predict Euroleague Basketball results and rankings.
 
 # Data Collection
