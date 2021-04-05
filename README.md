@@ -4,10 +4,11 @@ This repository includes an end-to-end analysis including machine learning algor
 
 # Data Collection
 
-I've scraped data using a Euroleague. I deleted the html extension files and concatenated the rest (see Code and Resources Used).
+I've used this dataset from Kaggle: https://www.kaggle.com/efehandanisman/euroleague-play-by-play-data-20072020
 
 # Code and Resources Used
 
-### Euroleague Scraper
+### Euroleague Data
 ```
-https://pypi.org/project/euroleague-scrapping/
+https://www.kaggle.com/efehandanisman/euroleague-play-by-play-data-20072020
+```
