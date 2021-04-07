@@ -9,10 +9,11 @@ This repository includes an end-to-end analysis including machine learning algor
 
 # Data Collection
 
-I've used these datasets from Kaggle: 
-- https://www.kaggle.com/vadimgladky/euroleague-basketball-results-20032019
-- https://www.kaggle.com/avivshany/euroleague-basketball-advanced-stats
-- https://www.kaggle.com/jacobbaruch/basketball-players-stats-per-season-49-leagues
+I've used these datasets from Kaggle (see Code and Resources Used): 
+
+- A dataset of team statistics.
+- A dataset of player statistics.
+- A dataset of game results and statistics.
 
 # Exploratory Data Analysis
 
@@ -25,5 +26,7 @@ I've used these datasets from Kaggle:
 
 ### Euroleague Data
 ```
-https://www.kaggle.com/efehandanisman/euroleague-play-by-play-data-20072020
+- https://www.kaggle.com/vadimgladky/euroleague-basketball-results-20032019
+- https://www.kaggle.com/avivshany/euroleague-basketball-advanced-stats
+- https://www.kaggle.com/jacobbaruch/basketball-players-stats-per-season-49-leagues
 ```
