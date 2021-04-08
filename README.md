@@ -4,7 +4,7 @@ TLDR; // app
 
 This repository includes an end-to-end analysis including machine learning algorithms to predict Euroleague Basketball results and rankings.
 
-My implemented is based off of the paper [Descriptive and Predictive Analysis of Euroleague Basketball Games and the Wisdom of Basketball Crowds](https://paperswithcode.com/paper/descriptive-and-predictive-analysis-of).
+My implementation is based off of the paper [Descriptive and Predictive Analysis of Euroleague Basketball Games and the Wisdom of Basketball Crowds](https://paperswithcode.com/paper/descriptive-and-predictive-analysis-of).
 
 # Data Collection
 
