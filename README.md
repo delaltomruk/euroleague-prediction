@@ -16,6 +16,8 @@ I've used these datasets from Kaggle (see Code and Resources Used):
 
 # Exploratory Data Analysis
 
+I first analyzed each dataset separately since their sources were different (see `players` and `euroleague` notebooks). Then, I merged all these dataframes to look at the information together and to model the data.
+
 ### Sneakpeek: Data Visualization Results
 <img width="393" alt="Screen Shot 2021-04-05 at 9 05 09 PM" src="https://user-images.githubusercontent.com/66208179/113612074-0760b980-9658-11eb-9c2c-3eb0d0028da9.png">
 
