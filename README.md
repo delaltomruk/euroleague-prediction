@@ -45,9 +45,11 @@ I also figured that individual team stats would also be useful, so I added the `
 
 <img width="393" alt="Screen Shot 2021-04-05 at 9 05 09 PM" src="https://user-images.githubusercontent.com/66208179/113612074-0760b980-9658-11eb-9c2c-3eb0d0028da9.png">
 
-## Preparing the Data
+# Preparing the Data
 
 I wrote functions for data cleaning, feature selection and feature engineering etc. (see `prepare_data.py` in `scripts` folder)
+
+# Modeling
 
 ## Team Level Predictions
 
