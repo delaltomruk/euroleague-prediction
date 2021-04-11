@@ -49,6 +49,13 @@ I also figured that individual team stats would also be useful, so I added the `
 
 I wrote functions for data cleaning, feature selection and feature engineering etc. (see `prepare_data.py` in `scripts` folder)
 
+## Team Level Predictions
+
+* Based on `teams` data.
+
+## Game Level Predictions
+
+* Based on `games` data.
 
 # Code and Resources Used
 
