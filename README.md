@@ -1,6 +1,6 @@
 # Euroleague Prediction 🏀
 
-TLDR; 🤓
+# TLDR;            <img width="302" alt="Screen Shot 2021-04-12 at 2 50 25 PM" src="https://user-images.githubusercontent.com/66208179/114390089-7a10ee00-9b9e-11eb-84dd-930f2b829afd.png">
 
 This repository includes an end-to-end analysis including machine learning algorithms to predict Euroleague Basketball results and rankings.
 
