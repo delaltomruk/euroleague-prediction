@@ -6,6 +6,8 @@ def missing_values(games):
     Takes the games dataframe and fills out the missing values.
     """
     games["FT%"].fillna(games["FT%"].mean(), inplace=True)
+    games = games.reset_index()
+    return games
     
 # feature selection
 def feature_selection(games):
@@ -24,6 +26,8 @@ def feature_selection(games):
     # drop unnecessary columns
     games.drop("game_id", axis = 1, inplace=True)
     games.drop("win", axis = 1, inplace = True)
+    games = games.reset_index()
+    return games
     
 def cat_to_num_games(games):
     """
@@ -65,8 +69,8 @@ def together(games, teams):
     Returns the games and teams dataframes after all applications.
     """
     #games
-    missing_values(games)
-    feature_selection(games)
+    games = missing_values(games)
+    games = feature_selection(games)
     games = cat_to_num_games(games)
     games = scaling(games)
     #teams
