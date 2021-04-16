@@ -6,7 +6,7 @@ This repository includes an end-to-end analysis including machine learning algor
 
 This is a binary classification problem, i.e. an observation must be classified as 1 (home win) or 2 (away win).
 
-My implementation is based off of the paper [Descriptive and Predictive Analysis of Euroleague Basketball Games and the Wisdom of Basketball Crowds](https://paperswithcode.com/paper/descriptive-and-predictive-analysis-of).
+My implementation is based off of the paper [Descriptive and Predictive Analysis of Euroleague Basketball Games and the Wisdom of Basketball Crowds](https://paperswithcode.com/paper/descriptive-and-predictive-analysis-of). My main goal is to implement the ```future improvements``` section to improve accuracy.
 
 ### Challenges:
 * Euroleague new format is only a few years old (after 2016).
