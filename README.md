@@ -47,7 +47,12 @@ I also figured that individual team stats would also be useful, so I added the `
 
 # Preparing the Data
 
-I wrote functions for data cleaning, feature selection and feature engineering etc. (see `prepare_data.py` in `scripts` folder)
+(see `prepare_data.py` in `scripts` folder)
+
+Includes:
+- Scaling (Min Max Scaler)
+- Feature Selection
+- Categorical to Numerical Values
 
 # Modeling
 
