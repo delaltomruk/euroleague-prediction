@@ -66,7 +66,7 @@ Includes:
  'SVR': 0.5420114673437783}
  
  
- Final Accuracy with SVR:``` 0.61```
+ Test Accuracy with SVR:``` 0.61```
 
 # Code and Resources Used
 
