@@ -60,13 +60,9 @@ Includes:
 
 * Based on `games` data.
 
-{'Lasso': -0.0009991995438496382,
- 'Ridge': 0.49903003176351746,
- 'RandomForestRegressor': 1.0,
- 'SVR': 0.5420114673437783}
+{'LogReg': 0.9958333333333333, 'KNN': 0.8791666666666667, 'RandomForest': 1.0}
  
- 
- Test Accuracy with SVR:``` 0.61```
+ Test Accuracy with KNN:``` 0.82```
 
 # Code and Resources Used
 
